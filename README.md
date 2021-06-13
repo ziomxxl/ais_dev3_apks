@@ -20,5 +20,5 @@ AI-Speaker forum -> https://ai-speaker.discourse.group/t/youtube-tv/1749
 
 AI-Speaker forum -> https://ai-speaker.discourse.group/t/youtube-tv/1749
 
-![image](https://user-images.githubusercontent.com/82706488/116916683-f2bf1380-ac4d-11eb-933d-3ce7b8b771d3.png)
+![image](https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/d/d643e4b36db5e6968d49e3e926a1a5bdbaa9aabb.jpeg)
 
