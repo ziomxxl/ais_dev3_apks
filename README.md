@@ -16,4 +16,9 @@ AI-Speaker forum -> https://ai-speaker.discourse.group/t/youtube-tv/1749
 
 ![image](https://user-images.githubusercontent.com/82706488/116916683-f2bf1380-ac4d-11eb-933d-3ce7b8b771d3.png)
 
+## CastReceiver
+
+AI-Speaker forum -> https://ai-speaker.discourse.group/t/youtube-tv/1749
+
+![image](https://user-images.githubusercontent.com/82706488/116916683-f2bf1380-ac4d-11eb-933d-3ce7b8b771d3.png)
 
