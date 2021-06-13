@@ -18,7 +18,7 @@ AI-Speaker forum -> https://ai-speaker.discourse.group/t/youtube-tv/1749
 
 ## CastReceiver
 
-AI-Speaker forum -> https://ai-speaker.discourse.group/t/youtube-tv/1749
+AI-Speaker forum -> https://ai-speaker.discourse.group/t/cast-na-bramce-ais-dev3/1850
 
 ![image](https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/d/d643e4b36db5e6968d49e3e926a1a5bdbaa9aabb.jpeg)
 
