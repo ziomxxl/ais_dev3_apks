@@ -34,7 +34,7 @@ AI-Speaker forum -> https://ai-speaker.discourse.group/t/cast-na-bramce-ais-dev3
 
 
 ## Amazon
-AI-Speaker forum -> https://ai-speaker.discourse.group/t/cast-na-bramce-ais-dev3/1850
-![image](https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/6/682b2136c12c3ef9d05a10aa535aa549379c8a7b.jpeg)
+AI-Speaker forum -> https://ai-speaker.discourse.group/t/amazon-prime-video-na-dev3/2211
+![image](https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/2/2a0dded43e80e083d40062fa18ae6921044aad6a.jpeg)
 
 
