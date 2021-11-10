@@ -5,6 +5,7 @@ Useful android applications for AIS DEV3 IoT gate
 - [CastReceiver](#castreceiver)
 - [Wireguard](#wireguard)
 - [Amazon Prime Video](#amazon)
+- [KODI](#kodi)
 
 ## Popcorn Time
 https://getpopcorntime.is/
@@ -37,4 +38,7 @@ AI-Speaker forum -> https://ai-speaker.discourse.group/t/cast-na-bramce-ais-dev3
 AI-Speaker forum -> https://ai-speaker.discourse.group/t/amazon-prime-video-na-dev3/2211
 ![image](https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/2/2a0dded43e80e083d40062fa18ae6921044aad6a.jpeg)
 
+## Kodi
+AI-Speaker forum -> https://ai-speaker.discourse.group/t/kodi-na-ais-dev3/2294
+![image](https://aws1.discourse-cdn.com/free1/uploads/ai_speaker/original/2X/2/2c956e0fbbfe9fc8276af59d8ffde46c6f91e212.jpeg)
 
